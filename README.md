@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Soy Miguel 👋</h1>
+<h1 align="center">Hola, soy Miguel 👋</h1>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!--
