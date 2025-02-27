@@ -4,7 +4,7 @@
 
 <p><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
 
-- 👨‍💻 Desarrollador web Full Stack con +2 años de experiencia
+- 👨‍💻 Full Stack con +2 años de experiencia
 - 💻 Apasionado de la tecnología
 - 🌱 Aprendiendo...
   - React
