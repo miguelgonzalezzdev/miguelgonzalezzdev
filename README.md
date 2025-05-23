@@ -8,7 +8,7 @@
 - 💻 Apasionado de la tecnología
 - 🌱 Aprendiendo...
   - Astro
-  - 
+
 <br>
 
 ## Skills
