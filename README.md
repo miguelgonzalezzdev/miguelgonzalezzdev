@@ -48,4 +48,4 @@
 ## ¿Hablamos?
 
 <a href="https://www.linkedin.com/in/miguelgonzalezgarciadev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/miguelgonzalezgarciadev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="https://miguelgonzalezzdev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
