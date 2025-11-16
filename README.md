@@ -29,12 +29,23 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
+## Estadísticas
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgonzalezzdev&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados de miguelgonzalezzdev"/>
+</div>
+
+<div align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=miguelgonzalezzdev&theme=dark&hide_border=true" alt="Racha de miguelgonzalezzdev"/>
+</div>
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelgonzalezzdev&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Estadísticas del perfil de miguelgonzalezzdev"/>
+</div>
+
 ## ¿Hablamos?
 
-<a href="https://www.linkedin.com/in/miguelgonzalezgarciadev">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.linkedin.com/in/miguelgonzalezgarciadev">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portafolio">
-</a>
+<a href="https://www.linkedin.com/in/miguelgonzalezgarciadev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguelgonzalezgarciadev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
